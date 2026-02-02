@@ -27,7 +27,7 @@ cd HarBest
 
 ### 2. Database Setup
 
-1. Install and start MySQL Server
+1. Install and start MySQL Workbench
 2. Create a new database for the application
 3. Import the database schema (if provided in the project)
 4. Update database connection settings in the source code
